@@ -727,4 +727,7 @@ body{
     .tag-icon{
         margin-right: 0;
     }
+    .create-post-footer{
+        justify-content: space-between;
+    }
 }
