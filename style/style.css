@@ -720,3 +720,11 @@ body{
         display: none;
     }
 }
+@media (max-width: 620px){
+    .button-text{
+        display: none;
+    }
+    .tag-icon{
+        margin-right: 0;
+    }
+}
